@@ -2,13 +2,13 @@
   "name": "brave",
   "version": "1.37.28",
   "description": "Next generation Brave browser for macOS, Windows, Linux, and eventually Android",
-  "homepage": "https://github.com/brave/brave-browser#readme",
+  "homepage": "https://github.com/farfromgrace/brave-browser#readme",
   "bugs": {
-    "url": "https://github.com/brave/brave-browser/issues"
+    "url": "https://github.com/farfromgrace/brave-browser/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brave/brave-browser.git"
+    "url": "git+https://github.com/farfromgrace/brave-browser.git"
   },
   "license": "MPL-2.0",
   "author": {
@@ -235,9 +235,9 @@
     "projects": {
       "brave-core": {
         "dir": "src/brave",
-        "branch": "master",
+        "branch": "osiris",
         "repository": {
-          "url": "https://github.com/brave/brave-core.git"
+          "url": "https://github.com/farfromgrace/brave-core.git"
         }
       }
     }
