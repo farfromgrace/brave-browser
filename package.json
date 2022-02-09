@@ -234,10 +234,10 @@
   "config": {
     "projects": {
       "brave-core": {
-        "dir": "src/brave",
+        "dir": "src/osiris",
         "branch": "master",
         "repository": {
-          "url": "https://github.com/brave/brave-core.git"
+          "url": "https://github.com/farfromgrace/brave-core.git"
         }
       }
     }
