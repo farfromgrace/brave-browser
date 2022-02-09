@@ -237,7 +237,7 @@
         "dir": "src/osiris",
         "branch": "master",
         "repository": {
-          "url": "https://github.com/farfromgrace/brave-core.git"
+          "url": "ssh://git@github.com/farfromgrace/brave-core.git"
         }
       }
     }
