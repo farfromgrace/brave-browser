@@ -19,9 +19,6 @@ docs/_build
 node_modules
 src
 
-.cipd
-.gclient_entries
-.gclient
 .sccache
 
 # logs and test results
