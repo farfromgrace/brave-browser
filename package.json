@@ -235,7 +235,7 @@
     "projects": {
       "brave-core": {
         "dir": "src/osiris",
-        "branch": "master",
+        "branch": "rename",
         "repository": {
           "url": "ssh://git@github.com/farfromgrace/brave-core.git"
         }
