@@ -9,7 +9,7 @@ const path = require('path')
 const { spawnSync } = require('child_process')
 const util = require('../lib/util')
 
-Log.progress('Performing initial checkout of brave-core')
+Log.progress('dxtrace: Performing initial checkout of brave-core')
 
 const braveCoreDir = path.resolve(__dirname, '..', 'src', 'osiris')
 const braveCoreRef = util.getProjectVersion('brave-core')
